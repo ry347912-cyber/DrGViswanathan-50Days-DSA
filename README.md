@@ -15,7 +15,6 @@
 
 <br/>
 
-> ### *"Microsoft and Google opportunities are for those who START TODAY."*
 > **— Dr. G. Viswanathan Initiative, VIT University**
 
 ---
