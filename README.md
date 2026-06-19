@@ -248,8 +248,7 @@ g++ -o sol 203_RemoveLinkedListElements.cpp && ./sol
 
 | | Resource |
 |-|----------|
-| 🌐 | [DrGViswanathan Challenge Portal](https://teachers-day-vitb.vercel.app) |
-| 💻 | [LeetCode](https://leetcode.com) |
+| 🌐 | [DrGViswanathan Challenge Portal](https://teachers-day-vitb.vercel.app) | 
 | 📘 | [Striver A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/) |
 
 ---
@@ -274,8 +273,8 @@ g++ -o sol 203_RemoveLinkedListElements.cpp && ./sol
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-[![LeetCode](https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_USERNAME)
+
+
 
 </div>
 
@@ -283,7 +282,6 @@ g++ -o sol 203_RemoveLinkedListElements.cpp && ./sol
 
 <div align="center">
 
-### 🦁 *"Buckle up and start working. The 1 Crore company is coming soon."*
 
 ⭐ **Star this repo to follow my journey!** &nbsp;|&nbsp; 🔔 **Watch for daily updates**
 
