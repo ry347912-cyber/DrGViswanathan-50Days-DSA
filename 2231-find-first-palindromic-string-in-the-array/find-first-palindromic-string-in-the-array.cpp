@@ -3,10 +3,10 @@ public:
     string firstPalindrome(vector<string>& words) {
         for (const string& word : words) {
             if (isPalindrome(word)) {
-                return word; // Found the first palindrome, return it immediately
+                return word; 
             }
         }
-        return ""; // If no palindrome is found after checking all words
+        return ""; 
     }
 
 private:
@@ -16,11 +16,11 @@ private:
         
         while (left < right) {
             if (s[left] != s[right]) {
-                return false; // Characters don't match, not a palindrome
+                return false; 
             }
             left++;
             right--;
         }
-        return true; // All characters matched
+        return true; 
     }
 };
